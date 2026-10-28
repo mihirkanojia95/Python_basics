@@ -1,0 +1,21 @@
+# pip is a popular Python package manager
+
+pip3 install pandas
+pip3 install matplotlib
+pip3 install nltk
+pip3 install numpy
+pip3 install scipy
+pip3 install scikit-learn
+pip3 install seaborn
+pip3 install --upgrade tensorflow
+pip3 install keras
+pip3 install pillow
+pip3 install plotly
+
+
+Problem Statement:
+
+Create a Bash script that monitors a directory and continuously counts the number of 
+files in it.the script should print the file count every 10 seconds, and if the 
+directory becomes empty, the script should exit with a message indicating that the 
+directory is empty.
